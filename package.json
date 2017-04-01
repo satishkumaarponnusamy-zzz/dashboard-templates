@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-templates",
+  "version": "0.0.1",
+  "description": "Allows user to create new dashboards from dashboard templates",
+  "author": "satishkumaarponnusamy",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/satishkumaarponnusamy/dashboard-templates.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tfx-cli": "*",
+    "bower": "*"
+  }
+}

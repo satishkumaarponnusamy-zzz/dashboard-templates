@@ -1,0 +1,28 @@
+{
+  "name": "dashboard-templates",
+  "description": "Allows user to create new dashboards from dashboard templates",
+  "main": "",
+  "authors": [
+    "satishkumaarponnusamy"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "vsts",
+    "dashboard-templates"
+  ],
+  "homepage": "https://github.com/satishkumaarponnusamy/dashboard-templates",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vss-web-extension-sdk": "^2.114.0"
+  }
+}
